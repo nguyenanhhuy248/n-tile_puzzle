@@ -19,4 +19,4 @@ In the python scripts, the states of the n-tile puzzle are represented by lists 
 
 The above state, for example, is represented as: [1,1, [[2,1,6],[4,0,8],[7,5,3]] ]
 
-Where the first 2 numbers are the position of the blank tile.
+Where the first 2 numbers represent the position of the blank tile.
